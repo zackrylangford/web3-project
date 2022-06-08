@@ -1,6 +1,4 @@
 # web3-project
-My Web3 Project
-
 
 This is the first file that I have created for this project. 
 
